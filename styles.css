@@ -6,3 +6,12 @@
     padding: 1.3rem;
     font-size: 1.3rem;
 }
+
+#output{
+    border: 1px solid black;
+    height: 15vh;
+    max-width: 600px;
+    margin: 3rem 17rem;
+    padding: 1.3rem;
+    font-size: 1.3rem;
+}
