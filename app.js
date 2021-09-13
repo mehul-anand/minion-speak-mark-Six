@@ -14,3 +14,15 @@ function errorHandler(error){
     console.log("An Error Occured",error)
     alert("Something is not right , please try again later")
 }
+
+function clickHandler(){
+    var inputText=txtInput.value;
+    console.log("txtInput val="+inputText)
+    var newURl=getTranslationURL(inputText)
+    fetch(newURl)
+        .then(Response => Response.json())
+        .then(json => {
+            outputDiv.innerText=json.contents.translated
+        })
+        .catch(errorHandler)
+}
