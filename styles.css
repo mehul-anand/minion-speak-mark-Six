@@ -2,6 +2,7 @@
     display: block;
     height: 15vh;
     font-size: 1.3rem;
+    margin-bottom: 1.3rem;
 }
 
 #output{
@@ -12,11 +13,12 @@
 
 #btn-translate{
     font-size: 1.5rem;
+    display: block;
     width: 200px;
     height: 10vh;
-    margin: 4rem 0rem;
+    margin: auto;
     background-color:#FCD34D ;
-    color: brown;
+    color:brown;
 }
 
 nav{
