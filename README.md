@@ -36,8 +36,8 @@
 
 - [textarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
 - [placeholder](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)
-- [Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-- -[button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
+- [document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
 - [fun translations](https://funtranslations.com/api/)
 - [minion api](https://funtranslations.com/api/#minion)
 - [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
